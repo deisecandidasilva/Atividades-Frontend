@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+#titulo {
+   color: white;
+
+}
+.cor-red {
+    color: red;
+}
+
+img {
+    border-radius: 15px;width: 500px;
+}
+
+
+
